@@ -1,0 +1,19 @@
+{
+  "name": "readme_generator",
+  "version": "1.0.0",
+  "description": "Generates a professional Readme document after the user answers a few simple questions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "N/A"
+  },
+  "repository": {
+    "type": "git",
+    "url": "adamjneubauer"
+  },
+  "author": "Adam Neubauer",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "util": "^0.12.3"
+  }
+}
